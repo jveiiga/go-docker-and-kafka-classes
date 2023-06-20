@@ -1,0 +1,36 @@
+# Arquivos binários e executáveis
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos objeto e de compilação
+*.o
+*.a
+*.obj
+
+# Arquivos de log e saída
+*.log
+*.out
+
+# Arquivos temporários
+*~
+*.tmp
+
+# Arquivos de configuração pessoal
+config.yml
+secrets.yml
+
+# Diretórios de saída e cache
+/bin
+/vendor
+
+# Arquivos gerados automaticamente
+gen/
+
+# Arquivos de dependência gerados pelo gerenciador de pacotes Go
+/go.sum
+/go.mod
+
+# Arquivos específicos a serem ignorados
+.DS_Store
