@@ -1,4 +1,4 @@
-package enitty
+package entity
 
 import (
 	"time"
