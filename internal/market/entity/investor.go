@@ -1,4 +1,4 @@
-package enitty
+package entity
 
 type Investor struct {
 	ID string
